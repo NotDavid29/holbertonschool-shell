@@ -1,1 +1,1 @@
-Mi repositorio de Holberton Shell
+Repositorio para tareas de Shell de Holberton School.
